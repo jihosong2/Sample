@@ -1,4 +1,6 @@
 # Tomahawk Resolvers
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjihosong2%2FSample.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjihosong2%2FSample?ref=badge_shield)
+
 
 Supported resolvers are distributed and updated automatically through Tomahawk's Settings dialog.
 To manually install a resolver either 
@@ -64,3 +66,7 @@ Some of the features need authentication (e.g. being a premium subscriber to thi
 | vkontakte  | ✔         | ✔      | ✘               | ✘              | ✘             | ✘              | ✘          |
 | youtube    | ✔         | ✔      | ✘               | ✘              | ✘             | ✘              | ✘          |
 | youtube-metadata    | ✘         | ✘      | ✘               | ✘              | ✔             | ✔              | ✘          |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjihosong2%2FSample.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjihosong2%2FSample?ref=badge_large)
